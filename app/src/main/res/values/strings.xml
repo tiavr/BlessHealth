@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlessHealth</string>
+    <string name="start">START</string>
+    <string name="num_chambre">Chambre n°1</string>
+    <string name="button">Done</string>
+    <string name="button2">Back</string>
+    <string name="titreScan">Scan the barcode</string>
+    <string name="tasks">Button</string>
+</resources>
